@@ -1,0 +1,192 @@
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\roslyn\csc.exe
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\roslyn\vbc.exe
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\Bitministry Task.dll.config
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\Bitministry Task.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\Bitministry Task.pdb
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\Antlr3.Runtime.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\EntityFramework.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\Newtonsoft.Json.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.Helpers.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.Mvc.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.Optimization.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.Razor.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\WebGrease.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\EntityFramework.xml
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.Helpers.xml
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.Mvc.xml
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.Optimization.xml
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.Razor.xml
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.xml
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\Antlr3.Runtime.pdb
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\Newtonsoft.Json.xml
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\obj\Debug\Bitministry Task.csprojResolveAssemblyReference.cache
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\obj\Debug\Bitministry Task.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\obj\Debug\Bitministry Task.pdb
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\EntityFramework.SqlServer.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\PagedList.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\PagedList.Mvc.dll
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\EntityFramework.SqlServer.xml
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\PagedList.xml
+C:\Users\Nafiu\Documents\Visual Studio 2015\Projects\MVC\Bitministry Task\Bitministry Task\bin\PagedList.Mvc.xml
+K:\Bitministry Task\Bitministry Task\bin\roslyn\csc.exe
+K:\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Bitministry Task\Bitministry Task\bin\roslyn\System.Collections.Immutable.dll
+K:\Bitministry Task\Bitministry Task\bin\roslyn\System.Reflection.Metadata.dll
+K:\Bitministry Task\Bitministry Task\bin\roslyn\vbc.exe
+K:\Bitministry Task\Bitministry Task\bin\roslyn\VBCSCompiler.exe
+K:\Bitministry Task\Bitministry Task\bin\roslyn\VBCSCompiler.exe.config
+K:\Bitministry Task\Bitministry Task\bin\Bitministry Task.dll.config
+K:\Bitministry Task\Bitministry Task\bin\Bitministry Task.dll
+K:\Bitministry Task\Bitministry Task\bin\Bitministry Task.pdb
+K:\Bitministry Task\Bitministry Task\bin\Antlr3.Runtime.dll
+K:\Bitministry Task\Bitministry Task\bin\EntityFramework.dll
+K:\Bitministry Task\Bitministry Task\bin\EntityFramework.SqlServer.dll
+K:\Bitministry Task\Bitministry Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Bitministry Task\Bitministry Task\bin\Microsoft.Web.Infrastructure.dll
+K:\Bitministry Task\Bitministry Task\bin\Newtonsoft.Json.dll
+K:\Bitministry Task\Bitministry Task\bin\PagedList.dll
+K:\Bitministry Task\Bitministry Task\bin\PagedList.Mvc.dll
+K:\Bitministry Task\Bitministry Task\bin\System.Web.Helpers.dll
+K:\Bitministry Task\Bitministry Task\bin\System.Web.Mvc.dll
+K:\Bitministry Task\Bitministry Task\bin\System.Web.Optimization.dll
+K:\Bitministry Task\Bitministry Task\bin\System.Web.Razor.dll
+K:\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Deployment.dll
+K:\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.dll
+K:\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Razor.dll
+K:\Bitministry Task\Bitministry Task\bin\WebGrease.dll
+K:\Bitministry Task\Bitministry Task\bin\EntityFramework.xml
+K:\Bitministry Task\Bitministry Task\bin\EntityFramework.SqlServer.xml
+K:\Bitministry Task\Bitministry Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Bitministry Task\Bitministry Task\bin\PagedList.xml
+K:\Bitministry Task\Bitministry Task\bin\PagedList.Mvc.xml
+K:\Bitministry Task\Bitministry Task\bin\System.Web.Helpers.xml
+K:\Bitministry Task\Bitministry Task\bin\System.Web.Mvc.xml
+K:\Bitministry Task\Bitministry Task\bin\System.Web.Optimization.xml
+K:\Bitministry Task\Bitministry Task\bin\System.Web.Razor.xml
+K:\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.xml
+K:\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Deployment.xml
+K:\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Razor.xml
+K:\Bitministry Task\Bitministry Task\bin\Antlr3.Runtime.pdb
+K:\Bitministry Task\Bitministry Task\bin\Newtonsoft.Json.xml
+K:\Bitministry Task\Bitministry Task\obj\Debug\Bitministry Task.csprojResolveAssemblyReference.cache
+K:\Bitministry Task\Bitministry Task\obj\Debug\Bitministry Task.dll
+K:\Bitministry Task\Bitministry Task\obj\Debug\Bitministry Task.pdb
+D:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\csc.exe
+D:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\vbc.exe
+D:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\VBCSCompiler.exe
+D:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder\Bitministry Task\Bitministry Task\bin\Bitministry Task.dll.config
+D:\New folder\Bitministry Task\Bitministry Task\bin\Bitministry Task.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\Bitministry Task.pdb
+D:\New folder\Bitministry Task\Bitministry Task\bin\Antlr3.Runtime.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\EntityFramework.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\EntityFramework.SqlServer.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\Newtonsoft.Json.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\PagedList.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\PagedList.Mvc.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Helpers.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Mvc.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Optimization.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Razor.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Deployment.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Razor.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\WebGrease.dll
+D:\New folder\Bitministry Task\Bitministry Task\bin\EntityFramework.xml
+D:\New folder\Bitministry Task\Bitministry Task\bin\EntityFramework.SqlServer.xml
+D:\New folder\Bitministry Task\Bitministry Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder\Bitministry Task\Bitministry Task\bin\PagedList.xml
+D:\New folder\Bitministry Task\Bitministry Task\bin\PagedList.Mvc.xml
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Helpers.xml
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Mvc.xml
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Optimization.xml
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Razor.xml
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.xml
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Deployment.xml
+D:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Razor.xml
+D:\New folder\Bitministry Task\Bitministry Task\bin\Antlr3.Runtime.pdb
+D:\New folder\Bitministry Task\Bitministry Task\bin\Newtonsoft.Json.xml
+D:\New folder\Bitministry Task\Bitministry Task\obj\Debug\Bitministry Task.csprojResolveAssemblyReference.cache
+D:\New folder\Bitministry Task\Bitministry Task\obj\Debug\Bitministry Task.dll
+D:\New folder\Bitministry Task\Bitministry Task\obj\Debug\Bitministry Task.pdb
+I:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\csc.exe
+I:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\System.Collections.Immutable.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\System.Reflection.Metadata.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\vbc.exe
+I:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\VBCSCompiler.exe
+I:\New folder\Bitministry Task\Bitministry Task\bin\roslyn\VBCSCompiler.exe.config
+I:\New folder\Bitministry Task\Bitministry Task\bin\Bitministry Task.dll.config
+I:\New folder\Bitministry Task\Bitministry Task\bin\Bitministry Task.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\Bitministry Task.pdb
+I:\New folder\Bitministry Task\Bitministry Task\bin\Antlr3.Runtime.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\EntityFramework.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\EntityFramework.SqlServer.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\Microsoft.Web.Infrastructure.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\Newtonsoft.Json.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\PagedList.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\PagedList.Mvc.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Helpers.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Mvc.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Optimization.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Razor.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Deployment.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Razor.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\WebGrease.dll
+I:\New folder\Bitministry Task\Bitministry Task\bin\EntityFramework.xml
+I:\New folder\Bitministry Task\Bitministry Task\bin\EntityFramework.SqlServer.xml
+I:\New folder\Bitministry Task\Bitministry Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\New folder\Bitministry Task\Bitministry Task\bin\PagedList.xml
+I:\New folder\Bitministry Task\Bitministry Task\bin\PagedList.Mvc.xml
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Helpers.xml
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Mvc.xml
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Optimization.xml
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.Razor.xml
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.xml
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Deployment.xml
+I:\New folder\Bitministry Task\Bitministry Task\bin\System.Web.WebPages.Razor.xml
+I:\New folder\Bitministry Task\Bitministry Task\bin\Antlr3.Runtime.pdb
+I:\New folder\Bitministry Task\Bitministry Task\bin\Newtonsoft.Json.xml
+I:\New folder\Bitministry Task\Bitministry Task\obj\Debug\Bitministry Task.csprojResolveAssemblyReference.cache
+I:\New folder\Bitministry Task\Bitministry Task\obj\Debug\Bitministry Task.dll
+I:\New folder\Bitministry Task\Bitministry Task\obj\Debug\Bitministry Task.pdb
